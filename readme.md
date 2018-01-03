@@ -5,12 +5,14 @@ User interface emulator for Old Vintage "MS-DOS Rar Archivator"
 # Description
 This project is built using javascript framework VueJS 2 and new CSS Grid technology; also I used few CSS Flex. This web app simulating small part of vintage program "RAR Archiver" which was popular in mid-1990s in Russia and in space of the former USSR. Namely, I emulate the window of .rar archive tester)))
 
-Example of started app in initial mode:
+Example of started app in initial mode (please, click on image for enlarge):
+
 ![alt text](https://raw.githubusercontent.com/NDanilov2015/rardos-test/master/Initial-state.png)
 
 Please, hit down "Start" button and you will see running list of "files" and running percentage indicator in old vintage MS-DOS style! We will emulate run of "testing files in rar archive" interface.
 
-Example of started app in "file list" mode:
+Example of started app in "file list" mode (please, click on image for enlarge):
+
 ![alt text](https://raw.githubusercontent.com/NDanilov2015/rardos-test/master/Running-state.png)
 
 Font size and working windows size vary flexibly depending on the browser window size and the screen resolution (like the command line window, e.g. PowerShell or Cygwin terminal window).
