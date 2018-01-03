@@ -23,7 +23,7 @@ a) For immediately enjoying, you can simply following a link:
 [https://ndanilov2015.github.io/rardos-test/](https://ndanilov2015.github.io/rardos-test/)
 
 b) Or you can download this repository as .zip-file on your local machine, unpack it and starting index.html file in browser:
-[https://github.com/NDanilov2015/rardos-test.git](https://github.com/NDanilov2015/rardos-test.git/) 
+[https://github.com/NDanilov2015/rardos-test/archive/master.zip](https://github.com/NDanilov2015/rardos-test/archive/master.zip) 
 
 
 ### Prerequisites
